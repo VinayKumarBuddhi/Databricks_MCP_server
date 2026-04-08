@@ -8,4 +8,4 @@ command:
   - "8000"
 env:
   - name: DATABRICKS_HOST
-    value: "your_databricks_host_link"
+    value: "your_databricks_workspace_url_link"
