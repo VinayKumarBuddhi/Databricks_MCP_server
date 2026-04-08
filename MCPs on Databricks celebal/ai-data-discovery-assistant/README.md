@@ -5,7 +5,6 @@ An AI-enabled Data Discovery Assistant that uses the Model Context Protocol (MCP
 ## Project Structure
 - `mcp_server/`: The core MCP server (`server.py`) and Databricks API client (`databricks_client.py`).
 - `agent/`: Example script demonstrating how an AI agent interacts with the tools (`ai_agent.py`).
-- `demo/`: Scripts for testing tools manually (`test_tools.py`) and example prompt scenarios (`example_queries.py`).
 - `config/`: Configurations and environment loading (`settings.py`).
 - `requirements.txt`: Python dependencies.
 - `.env`: Environment variables for connecting to Databricks.
