@@ -17,7 +17,7 @@ An AI-enabled Data Discovery Assistant that uses the Model Context Protocol (MCP
    ```
 
 2. **Configure Environment**
-   Open the `.env` file and set the following variables:
+   create the `.env` file and set the following variables:
    - `DATABRICKS_HOST`: Your Databricks workspace URL (e.g., `https://adb-123456789.azuredatabricks.net`).
    - `DATABRICKS_TOKEN`: Your Personal Access Token.
    - `DATABRICKS_WAREHOUSE_ID`: The ID of your Databricks SQL Warehouse.
